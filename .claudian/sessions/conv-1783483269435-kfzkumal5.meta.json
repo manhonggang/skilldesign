@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783483269435-kfzkumal5",
+  "providerId": "claude",
+  "title": "Design upgrade effects for ultimates",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783483269436,
+  "updatedAt": 1783500426022,
+  "lastResponseAt": 1783495306363,
+  "sessionId": "d29a2722-d9cc-4d63-92a1-574ea173da28",
+  "providerState": {
+    "providerSessionId": "d29a2722-d9cc-4d63-92a1-574ea173da28"
+  },
+  "currentNote": "神明奥义（终极版）.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2928,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 103424,
+    "contextWindow": 1000000,
+    "contextTokens": 106352,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

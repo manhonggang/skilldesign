@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783513766842-rk7oc07qz",
+  "providerId": "claude",
+  "title": "Analyze Epic Seven PVP & PVE team synergies",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783513766842,
+  "updatedAt": 1783751889936,
+  "lastResponseAt": 1783580725107,
+  "sessionId": "25b457b5-9ad9-4cd0-8509-918cb43a8f45",
+  "providerState": {
+    "providerSessionId": "25b457b5-9ad9-4cd0-8509-918cb43a8f45"
+  },
+  "currentNote": "第七史诗_全英雄技能表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 160,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 193920,
+    "contextWindow": 1000000,
+    "contextTokens": 194080,
+    "percentage": 19,
+    "contextWindowIsAuthoritative": true
+  }
+}

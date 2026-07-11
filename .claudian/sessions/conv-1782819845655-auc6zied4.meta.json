@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782819845655-auc6zied4",
+  "providerId": "claude",
+  "title": "Explain ultimate energy mechanic in AFK Arena",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782819845656,
+  "updatedAt": 1782820611888,
+  "lastResponseAt": 1782819885892,
+  "sessionId": "745ada60-7653-454d-ac15-19b0db4837d3",
+  "providerState": {
+    "providerSessionId": "745ada60-7653-454d-ac15-19b0db4837d3"
+  },
+  "currentNote": "剑与远征全技能.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3993,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28672,
+    "contextWindow": 1000000,
+    "contextTokens": 32665,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

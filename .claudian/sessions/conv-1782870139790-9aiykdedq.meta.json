@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782870139790-9aiykdedq",
+  "providerId": "claude",
+  "title": "Remove rich text from table",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782870139791,
+  "updatedAt": 1782870203508,
+  "lastResponseAt": 1782870169977,
+  "sessionId": "36d2edab-8490-4172-8100-abb9d7371ab3",
+  "providerState": {
+    "providerSessionId": "36d2edab-8490-4172-8100-abb9d7371ab3"
+  },
+  "currentNote": "全遗物效果.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 165,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29952,
+    "contextWindow": 1000000,
+    "contextTokens": 30117,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

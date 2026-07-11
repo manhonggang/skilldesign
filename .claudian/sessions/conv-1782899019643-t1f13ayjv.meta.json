@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782899019643-t1f13ayjv",
+  "providerId": "claude",
+  "title": "提取战意火轮效果到独立章节",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782899019643,
+  "updatedAt": 1782957281321,
+  "lastResponseAt": 1782899729748,
+  "sessionId": "3fbd3f0d-c8af-41b7-bc2f-f279a11b20bc",
+  "providerState": {
+    "providerSessionId": "3fbd3f0d-c8af-41b7-bc2f-f279a11b20bc"
+  },
+  "currentNote": "神明副技能系统设计.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1424,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 66816,
+    "contextWindow": 1000000,
+    "contextTokens": 68240,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

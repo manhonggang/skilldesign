@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783752348261-op0qyaw2l",
+  "providerId": "claude",
+  "title": "Design exclusive bonds for mythic gods",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783752348262,
+  "updatedAt": 1783753038591,
+  "lastResponseAt": 1783753038591,
+  "sessionId": "9fac2c9a-dfec-433c-ad90-935cdcd69cb2",
+  "providerState": {
+    "providerSessionId": "9fac2c9a-dfec-433c-ad90-935cdcd69cb2"
+  },
+  "currentNote": "神明奥义（终极版）.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 301,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65664,
+    "contextWindow": 1000000,
+    "contextTokens": 65965,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

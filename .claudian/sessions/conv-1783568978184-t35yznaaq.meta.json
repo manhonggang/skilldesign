@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783568978184-t35yznaaq",
+  "providerId": "claude",
+  "title": "Clarify Garuda effect type",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783568978185,
+  "updatedAt": 1783577573574,
+  "lastResponseAt": 1783569017509,
+  "sessionId": "8ec9e53c-7780-4d8c-b2ed-358fdac04de3",
+  "providerState": {
+    "providerSessionId": "8ec9e53c-7780-4d8c-b2ed-358fdac04de3"
+  },
+  "currentNote": "神明奥义（终极版）.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6641,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20096,
+    "contextWindow": 1000000,
+    "contextTokens": 26737,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

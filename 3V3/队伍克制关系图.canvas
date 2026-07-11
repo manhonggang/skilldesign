@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 3V3 队伍范式克制循环\n\n> 6 个范式 | 📄 [[3V3组队规划表：范式与克制关系]]\n\n🔴 红线 = 动作三角克制\n　暴击克防 · 连击克闪 · 防克连击\n\n🟣 紫线 = 元素/节奏克制\n　燃烧 · 中毒 · 冰冻 · 虚弱","x":380,"y":-600,"width":320,"height":280,"color":"2"},
+		{"id":"dunhai","type":"text","text":"## ☠️ 毒海深潜\n**输出+辅助+承伤**\n\n叠毒 → 衰减抵抗 → 高层核弹\n中毒无视防御\n\n✅ 克：护盾铁壁、冰封控场\n❌ 被克：雷暴速攻\n\n🆕 塞尔凯特：蝎后护盾\n　中毒系原生承伤\n🆕 阿尔忒弥斯：闪避毒网","x":990,"y":310,"width":320,"height":315,"color":"6"},
+		{"id":"tiebi","type":"text","text":"## 🛡️ 护盾铁壁\n**承伤+承伤+输出**\n\n清盾转防 + 抵御回血\n双承伤磨血必胜\n\n✅ 克：流血狂袭\n❌ 被克：雷暴速攻（托尔处决 + 奥丁虚弱）、毒海深潜","x":1600,"y":310,"width":310,"height":275,"color":"3"},
+		{"id":"leibao","type":"text","text":"## ⚡ 雷暴速攻\n**输出+输出+承伤**\n\n闪电天气 → 感电叠层 → 护盾反伤\n虚弱压制 → 托尔处决收割\n\n✅ 克：护盾铁壁、毒海深潜\n❌ 被克：冰封控场\n🟡 均势：燃烧永动\n\n🟢 完整铁三角\n宙斯+托尔+奥丁","x":990,"y":-400,"width":310,"height":290,"color":"4"},
+		{"id":"bingfeng","type":"text","text":"## ❄️ 冰封控场\n**辅助+辅助+输出**\n\n寒冷 → 冰冻链 → 敌方回合跳过\n控制换取安全窗口\n\n✅ 克：雷暴速攻、燃烧永动\n❌ 被克：流血狂袭、毒海深潜","x":-60,"y":-110,"width":310,"height":260,"color":"4"},
+		{"id":"ranshao","type":"text","text":"## 🔥 燃烧永动\n**输出+输出+承伤**\n\n烈日翻倍 → 燃烧暴击 → 永动循环\n燃烧惩罚高频行动\n\n✅ 克：流血狂袭、毒海深潜\n❌ 被克：冰封控场\n🟡 均势：雷暴速攻","x":-215,"y":585,"width":310,"height":270,"color":"2"},
+		{"id":"liuxue","type":"text","text":"## 🩸 流血狂袭\n**输出+输出+辅助/承伤**\n\n铺流血 → 多次引爆 → 全队吸血\n多段攻击破闪避\n\n✅ 克：冰封控场、毒海深潜\n❌ 被克：燃烧永动、护盾铁壁\n🟡 均势：雷暴速攻（哈迪斯路）\n\n🆕 库丘林：卖血狂怒输出\n🟢 哈迪斯填补承伤","x":680,"y":900,"width":310,"height":310,"color":"1"}
+	],
+	"edges":[
+		{"id":"e01","fromNode":"leibao","fromSide":"right","toNode":"tiebi","toSide":"top","color":"1","label":"托尔处决破防+奥丁虚弱"},
+		{"id":"e02","fromNode":"leibao","fromSide":"bottom","toNode":"dunhai","toSide":"top","color":"6","label":"速攻打断发育+虚弱压DOT"},
+		{"id":"e04","fromNode":"bingfeng","fromSide":"top","toNode":"leibao","toSide":"left","color":"6","label":"冰冻压缩雷雨天窗口"},
+		{"id":"e05","fromNode":"bingfeng","fromSide":"left","toNode":"ranshao","toSide":"top","color":"6","label":"冰冻废燃烧DOT"},
+		{"id":"e06","fromNode":"ranshao","fromSide":"bottom","toNode":"liuxue","toSide":"left","color":"6","label":"燃烧惩罚高频行动"},
+		{"id":"e07","fromNode":"ranshao","fromSide":"right","toNode":"dunhai","toSide":"left","color":"6","label":"燃烧DOT压制毒海节奏"},
+		{"id":"e08","fromNode":"liuxue","fromSide":"top","toNode":"bingfeng","toSide":"bottom","color":"1","label":"多段连击破脆皮"},
+		{"id":"e09","fromNode":"liuxue","fromSide":"right","toNode":"dunhai","toSide":"bottom","color":"6","label":"多段压制叠毒发育"},
+		{"id":"e10","fromNode":"dunhai","fromSide":"right","toNode":"tiebi","toSide":"left","color":"6","label":"中毒无视护盾穿透"},
+		{"id":"e11","fromNode":"dunhai","fromSide":"left","toNode":"bingfeng","toSide":"right","color":"6","label":"中毒DOT磨穿慢速控制"},
+		{"id":"e12","fromNode":"tiebi","fromSide":"bottom","toNode":"liuxue","toSide":"bottom","color":"1","label":"防御稀释连击收益"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782736554933-1e928ol8x",
+  "providerId": "claude",
+  "title": "Review god ability system design",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782736554934,
+  "updatedAt": 1782869487903,
+  "lastResponseAt": 1782822515973,
+  "sessionId": "66160d9d-febc-4ae0-9727-b0afc8788d01",
+  "providerState": {
+    "providerSessionId": "66160d9d-febc-4ae0-9727-b0afc8788d01"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 462,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 176896,
+    "contextWindow": 1000000,
+    "contextTokens": 177358,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

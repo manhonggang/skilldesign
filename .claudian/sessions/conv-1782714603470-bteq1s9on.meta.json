@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782714603470-bteq1s9on",
+  "providerId": "claude",
+  "title": "Remove filler and examples",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782714603470,
+  "updatedAt": 1782736530083,
+  "lastResponseAt": 1782736492196,
+  "sessionId": "a01701fe-6aa6-4d79-a465-8957311bb5ee",
+  "providerState": {
+    "providerSessionId": "a01701fe-6aa6-4d79-a465-8957311bb5ee"
+  },
+  "currentNote": "神明奥义系统设计白皮书.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 194,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 299648,
+    "contextWindow": 1000000,
+    "contextTokens": 299842,
+    "percentage": 30,
+    "contextWindowIsAuthoritative": true
+  }
+}

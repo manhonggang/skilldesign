@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782705095560-1fssyy86d",
+  "providerId": "claude",
+  "title": "Map core rules and relationships in notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782705095560,
+  "updatedAt": 1782715183506,
+  "lastResponseAt": 1782714444923,
+  "sessionId": "46622a34-dca6-483d-8598-58c7a4a7bba3",
+  "providerState": {
+    "providerSessionId": "46622a34-dca6-483d-8598-58c7a4a7bba3"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 171,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 134528,
+    "contextWindow": 1000000,
+    "contextTokens": 134699,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

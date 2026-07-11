@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782977537410-8pyted99c",
+  "providerId": "claude",
+  "title": "Explain Hades-Odin-Quetzalcoatl detonation combo",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782977537410,
+  "updatedAt": 1783040999841,
+  "lastResponseAt": 1782984007902,
+  "sessionId": "1750afc6-cf26-4c82-9264-59343309ef96",
+  "providerState": {
+    "providerSessionId": "1750afc6-cf26-4c82-9264-59343309ef96"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 59,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 210560,
+    "contextWindow": 1000000,
+    "contextTokens": 210619,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

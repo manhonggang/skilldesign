@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782887427748-mgonyakod",
+  "providerId": "claude",
+  "title": "Tidy up ASCII diagram edges in document",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782887427748,
+  "updatedAt": 1782957527463,
+  "lastResponseAt": 1782889423129,
+  "sessionId": "92dcc7a5-9433-4d31-bb21-9dcd03071165",
+  "providerState": {
+    "providerSessionId": "92dcc7a5-9433-4d31-bb21-9dcd03071165"
+  },
+  "currentNote": "设计地图：核心规则与关联全景.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 146,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 202112,
+    "contextWindow": 1000000,
+    "contextTokens": 202258,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

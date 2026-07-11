@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782891858773-4bwr0t0ph",
+  "providerId": "claude",
+  "title": "Brainstorm auxiliary skill effects and upgrade ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782891858773,
+  "updatedAt": 1782895530319,
+  "lastResponseAt": 1782891920187,
+  "sessionId": "0a0fa76f-4997-4524-bd22-2a159d7a7b95",
+  "providerState": {
+    "providerSessionId": "0a0fa76f-4997-4524-bd22-2a159d7a7b95"
+  },
+  "currentNote": "神明奥义系统设计白皮书.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2850,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20096,
+    "contextWindow": 1000000,
+    "contextTokens": 22946,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

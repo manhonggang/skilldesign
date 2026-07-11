@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782704224847-efuffo085",
+  "providerId": "claude",
+  "title": "Remove rich text formatting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782704224847,
+  "updatedAt": 1782704671598,
+  "lastResponseAt": 1782704250951,
+  "sessionId": "656179ce-36da-41a0-8950-57424270b092",
+  "providerState": {
+    "providerSessionId": "656179ce-36da-41a0-8950-57424270b092"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2907,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25856,
+    "contextWindow": 1000000,
+    "contextTokens": 28763,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783041352980-dsk4lhx8q",
+  "providerId": "claude",
+  "title": "Generate more Hades design variants",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783041352980,
+  "updatedAt": 1783049781599,
+  "lastResponseAt": 1783049384208,
+  "sessionId": "5e66e65b-0909-40cf-a79a-226bda9fb74b",
+  "providerState": {
+    "providerSessionId": "5e66e65b-0909-40cf-a79a-226bda9fb74b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 764,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 151680,
+    "contextWindow": 1000000,
+    "contextTokens": 152444,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

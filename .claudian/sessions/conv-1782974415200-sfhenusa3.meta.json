@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782974415200-sfhenusa3",
+  "providerId": "claude",
+  "title": "Design poison variants for Artemis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782974415200,
+  "updatedAt": 1782977467484,
+  "lastResponseAt": 1782977268898,
+  "sessionId": "dea8f40b-9f2e-4dad-a51d-a046bc801db7",
+  "providerState": {
+    "providerSessionId": "dea8f40b-9f2e-4dad-a51d-a046bc801db7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 40,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 109312,
+    "contextWindow": 1000000,
+    "contextTokens": 109352,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782736920356-8fqf9v2pk",
+  "providerId": "claude",
+  "title": "Compare game build systems for commercialization",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782736920357,
+  "updatedAt": 1782781948320,
+  "lastResponseAt": 1782737113939,
+  "sessionId": "746a9ce8-8c71-4af6-b42f-e85f9c1aa0bc",
+  "providerState": {
+    "providerSessionId": "746a9ce8-8c71-4af6-b42f-e85f9c1aa0bc"
+  },
+  "currentNote": "参考游戏设计特色分析.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5614,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36480,
+    "contextWindow": 1000000,
+    "contextTokens": 42094,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

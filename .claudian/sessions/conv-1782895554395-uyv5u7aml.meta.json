@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782895554395-uyv5u7aml",
+  "providerId": "claude",
+  "title": "Extract all skills from 我要当老祖",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782895554395,
+  "updatedAt": 1782898935647,
+  "lastResponseAt": 1782896107977,
+  "sessionId": "7843db8a-93b0-4eb8-a583-51eb4ffdc95c",
+  "providerState": {
+    "providerSessionId": "7843db8a-93b0-4eb8-a583-51eb4ffdc95c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5767,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45312,
+    "contextWindow": 1000000,
+    "contextTokens": 51079,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783338785500-wouzrbteb",
+  "providerId": "claude",
+  "title": "Research popular Uma Musume scenarios",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783338785501,
+  "updatedAt": 1783482877093,
+  "lastResponseAt": 1783339730905,
+  "sessionId": "3f173e34-1285-4b59-8ee8-9971c481877b",
+  "providerState": {
+    "providerSessionId": "3f173e34-1285-4b59-8ee8-9971c481877b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6455,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 71040,
+    "contextWindow": 1000000,
+    "contextTokens": 77495,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

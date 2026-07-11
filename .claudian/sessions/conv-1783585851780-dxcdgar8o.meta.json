@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783585851780-dxcdgar8o",
+  "providerId": "claude",
+  "title": "Redesign Merlin upgrade effect",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783585851780,
+  "updatedAt": 1783587300863,
+  "lastResponseAt": 1783586131463,
+  "sessionId": "f2319e4d-ed57-4607-9356-c939e4b5083d",
+  "providerState": {
+    "providerSessionId": "f2319e4d-ed57-4607-9356-c939e4b5083d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 179,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30208,
+    "contextWindow": 1000000,
+    "contextTokens": 30387,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

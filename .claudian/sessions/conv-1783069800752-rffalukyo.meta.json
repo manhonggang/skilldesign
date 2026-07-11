@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783069800752-rffalukyo",
+  "providerId": "claude",
+  "title": "Compare Fire Archer archetype across games",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783069800752,
+  "updatedAt": 1783513614666,
+  "lastResponseAt": 1783301220097,
+  "sessionId": "2932e356-dd63-4937-afcd-c610754a2aec",
+  "providerState": {
+    "providerSessionId": "2932e356-dd63-4937-afcd-c610754a2aec"
+  },
+  "currentNote": "第七史诗_全英雄技能表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 50,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 153600,
+    "contextWindow": 1000000,
+    "contextTokens": 153650,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

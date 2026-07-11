@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782703884848-nd1a6yoqm",
+  "providerId": "claude",
+  "title": "Organize file into table format",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782703884848,
+  "updatedAt": 1782704210503,
+  "lastResponseAt": 1782703909985,
+  "sessionId": "84c924e2-71b0-4df3-9db6-da3f3cfeab29",
+  "providerState": {
+    "providerSessionId": "84c924e2-71b0-4df3-9db6-da3f3cfeab29"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1458,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20352,
+    "contextWindow": 1000000,
+    "contextTokens": 21810,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

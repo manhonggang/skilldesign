@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783321792895-q5piv4lbg",
+  "providerId": "claude",
+  "title": "吐槽杜尔迦技能名实不符",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783321792896,
+  "updatedAt": 1783338734453,
+  "lastResponseAt": 1783337633778,
+  "sessionId": "6bb9cad8-45ce-42a4-8aba-eedbf470dd9a",
+  "providerState": {
+    "providerSessionId": "6bb9cad8-45ce-42a4-8aba-eedbf470dd9a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 114,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 83328,
+    "contextWindow": 1000000,
+    "contextTokens": 83442,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

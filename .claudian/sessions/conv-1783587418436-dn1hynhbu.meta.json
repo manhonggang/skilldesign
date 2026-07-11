@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783587418436-dn1hynhbu",
+  "providerId": "claude",
+  "title": "Expand game script with food mechanics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783587418436,
+  "updatedAt": 1783665474061,
+  "lastResponseAt": 1783588892417,
+  "sessionId": "162c8cfc-7fed-4727-972e-03c745426c20",
+  "providerState": {
+    "providerSessionId": "162c8cfc-7fed-4727-972e-03c745426c20"
+  },
+  "currentNote": "新剧本玩法.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1701,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 114816,
+    "contextWindow": 1000000,
+    "contextTokens": 116517,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783049872592-u5sacb8v8",
+  "providerId": "claude",
+  "title": "更新库丘林并新增塞尔凯特完善中毒体系",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783049872592,
+  "updatedAt": 1783069715046,
+  "lastResponseAt": 1783068535901,
+  "sessionId": "979e9a81-cb03-4043-92b5-77b1aedef7ed",
+  "providerState": {
+    "providerSessionId": "979e9a81-cb03-4043-92b5-77b1aedef7ed"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 173,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 170368,
+    "contextWindow": 1000000,
+    "contextTokens": 170541,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

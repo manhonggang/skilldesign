@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782869761136-fb87weqrt",
+  "providerId": "claude",
+  "title": "Mark brainstorm vs implemented designs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782869761136,
+  "updatedAt": 1782870087741,
+  "lastResponseAt": 1782869924283,
+  "sessionId": "c1b4aa92-a3a5-42d0-8e55-937696dbd495",
+  "providerState": {
+    "providerSessionId": "c1b4aa92-a3a5-42d0-8e55-937696dbd495"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 42,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64384,
+    "contextWindow": 1000000,
+    "contextTokens": 64426,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

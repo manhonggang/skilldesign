@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783072541419-l5z9asq4b",
+  "providerId": "claude",
+  "title": "List effects in Epic Seven",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783072541419,
+  "updatedAt": 1783072993295,
+  "lastResponseAt": 1783072780748,
+  "sessionId": "2d374730-8d19-401a-aee1-e0d42d9368ae",
+  "providerState": {
+    "providerSessionId": "2d374730-8d19-401a-aee1-e0d42d9368ae"
+  },
+  "currentNote": "第七史诗_全英雄技能表.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3038,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 94464,
+    "contextWindow": 1000000,
+    "contextTokens": 97502,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
