@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783759788817-483uv7rvr",
+  "providerId": "claude",
+  "title": "Analyze Epic Seven Ch4 智武 boss fight logic",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783759788817,
+  "updatedAt": 1784000594696,
+  "lastResponseAt": 1783999966785,
+  "sessionId": "3495d98b-826b-495a-9fe9-49fe4ea2e61e",
+  "providerState": {
+    "providerSessionId": "3495d98b-826b-495a-9fe9-49fe4ea2e61e"
+  },
+  "currentNote": "第七史诗_主流队伍与机制分析.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 62224,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 62224,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

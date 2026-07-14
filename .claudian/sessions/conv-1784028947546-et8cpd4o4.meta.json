@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784028947546-et8cpd4o4",
+  "providerId": "claude",
+  "title": "Update Game Mechanics and Rules",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784028947546,
+  "updatedAt": 1784029072629,
+  "lastResponseAt": 1784029072629,
+  "sessionId": "d2356274-6675-4d11-9a62-e19a9838f5e3",
+  "providerState": {
+    "providerSessionId": "d2356274-6675-4d11-9a62-e19a9838f5e3"
+  },
+  "currentNote": "游戏的基本规则.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 292,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27456,
+    "contextWindow": 200000,
+    "contextTokens": 27748,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
+}

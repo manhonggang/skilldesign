@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784016653499-o3imnnfhl",
+  "providerId": "claude",
+  "title": "Analyze mobile game monetization evolution",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784016653499,
+  "updatedAt": 1784019192986,
+  "lastResponseAt": 1784018097410,
+  "sessionId": "292ea991-b68d-4ea5-bd2a-a1e3bc773283",
+  "providerState": {
+    "providerSessionId": "292ea991-b68d-4ea5-bd2a-a1e3bc773283"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 510,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35520,
+    "contextWindow": 200000,
+    "contextTokens": 36030,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

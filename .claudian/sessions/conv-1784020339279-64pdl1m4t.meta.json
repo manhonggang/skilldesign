@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784020339279-64pdl1m4t",
+  "providerId": "claude",
+  "title": "Design Artifact Complexity Assessment",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784020339279,
+  "updatedAt": 1784028001563,
+  "lastResponseAt": 1784026815565,
+  "sessionId": "dc9955bf-2dbe-4d93-b1a8-a8f4dd48cf72",
+  "providerState": {
+    "providerSessionId": "dc9955bf-2dbe-4d93-b1a8-a8f4dd48cf72"
+  },
+  "currentNote": "全遗物效果.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 770,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 118336,
+    "contextWindow": 200000,
+    "contextTokens": 119106,
+    "percentage": 60,
+    "contextWindowIsAuthoritative": true
+  }
+}
