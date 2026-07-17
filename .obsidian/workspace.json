@@ -8,63 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6624f5cfce3d9394",
+            "id": "1e643c6682530231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "克制循环矩阵：全阶层遗物设计方案.md",
+                "file": "技能升级效果重设计：边界、定位与审计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "克制循环矩阵：全阶层遗物设计方案"
+              "title": "技能升级效果重设计：边界、定位与审计"
             }
           },
           {
-            "id": "ff1bf4c3414d3135",
+            "id": "6c592708bc31d134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剑与远征_设计准则_反向推演.md",
+                "file": "技能升级效果重设计：边界、定位与审计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "剑与远征_设计准则_反向推演"
+              "title": "技能升级效果重设计：边界、定位与审计"
             }
           },
           {
-            "id": "7bfa753a75f581fa",
+            "id": "db3ac2e8ac6546cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "全遗物效果.md",
+                "file": "技能升级方案：多维定位驱动设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全遗物效果"
+              "title": "技能升级方案：多维定位驱动设计"
             }
           },
           {
-            "id": "bb2ef16b2ceb21b1",
+            "id": "930194a67220d048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏的基本规则.md",
+                "file": "技能升级效果重设计：边界、定位与审计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "游戏的基本规则"
+              "title": "技能升级效果重设计：边界、定位与审计"
+            }
+          },
+          {
+            "id": "a1ccff4f1cbab259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "全技能效果_升级效果对比.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "全技能效果_升级效果对比"
+            }
+          },
+          {
+            "id": "19cc33e5032ae7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技能升级效果重设计：边界、定位与审计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技能升级效果重设计：边界、定位与审计"
+            }
+          },
+          {
+            "id": "94d166ea7e30cd38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "全技能效果_升级效果对比.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "全技能效果_升级效果对比"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 852.5
+    "width": 802.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,44 +279,43 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "bb2ef16b2ceb21b1",
+  "active": "94d166ea7e30cd38",
   "lastOpenFiles": [
-    "游戏的核心设计原则.md",
-    "游戏的基本规则.md",
-    "全遗物效果.md",
-    "玩家简称体系：定位清晰度的反向检验.md",
-    "克制循环矩阵：全阶层遗物设计方案.md",
-    "神明列表.md",
-    "神明奥义（终极版）.md",
-    "设计地图：核心规则与关联全景.md",
-    "新剧本玩法.md",
-    "未命名.md",
-    "手游商业化机制全景图谱.md",
-    "手游商业化创新演进史：从月卡到保底.md",
-    "剑与远征_设计准则_反向推演.md",
-    "第七史诗_主流队伍与机制分析.md",
-    "剑与远征全技能.md",
-    "第七史诗_设计准则_反向推演.md",
-    "第七史诗_全英雄技能表.md",
-    "从组队驱动力反推奥义设计思路.md",
-    "第七史诗_设计准则_轴关系图谱.md",
-    "README.md",
+    "技能升级效果重设计：边界、定位与审计.md",
+    "技能多维定位网络：维度定义、技能分配与审计.md",
+    "技能升级方案：多维定位驱动设计.md",
+    "技能升级效果重设计.md",
+    "全技能效果_升级效果对比.md",
+    "全技能效果_升级效果对比.md.tmp.33916.53f19487eca8",
+    "全技能效果_升级效果对比.md.tmp.33916.cf7c24bb27d7",
+    "全技能效果_升级效果对比.md.tmp.33916.35c9faf272b7",
+    "全技能效果_升级效果对比.md.tmp.33916.c91515fafb29",
+    "全技能效果_升级效果对比.md.tmp.33916.e53d668844a1",
+    "棋盘维度遗物设计方向分析.md",
     "全技能效果.md",
-    "赛马娘剧本玩法深度分析.md",
+    "全技能效果_升级效果对比.md.tmp.33916.c688f0b8d3b1",
+    "全技能效果_升级效果对比.md.tmp.33916.7a68cee10482",
+    "第七史诗_主流队伍与机制分析.md",
     "参考游戏设计特色分析.md",
-    "神明奥义系统设计白皮书.md",
+    "从组队驱动力反推奥义设计思路.md",
+    "剑与远征全技能.md",
+    "剑与远征_设计准则_反向推演.md",
+    "三系统正交定位分析：奥义、技能与遗物.md",
+    "第七史诗_设计准则_轴关系图谱.md",
+    "缺失范式预设计：奥义与副技能储备.md",
+    "设计地图：核心规则与关联全景.md",
+    "设计约束手册.md",
+    "设计地图：核心规则与关联全景.md.tmp.23992.b4b6e9e548da",
+    "技能多维定位网络：维度定义、技能分配与审计.md.tmp.23992.2059857cef95",
+    "三系统正交定位分析：奥义、技能与遗物.md.tmp.23992.2683b194e968",
+    "全遗物效果.md",
     "神明羁绊系统设计.md",
-    "神明奥义效果全案.md",
-    "3V3/队伍克制关系图.canvas",
-    "玩家简称体系：定位清晰度的反向检验.md.tmp.10556.d3a13cc956e6",
-    "神明奥义（终极版）.md.tmp.10556.8f4c16806730",
-    "神明奥义（终极版）.md.tmp.19060.88b04e3f5f00",
-    "3V3/sedJXwd4C",
-    "3V3",
-    "tmp_regen2.js",
-    "tmp_regen.js",
-    "tmp_gen_diagrams.js",
-    "神明副技能系统设计.md.tmp.23476.a5eee91c9385",
-    "神明奥义效果全案.md.tmp.11844.c108c2152bc0"
+    "神明副技能系统设计.md",
+    "神明被动与遗物效果重合度分析.md",
+    "神明被动.md",
+    "三款游戏构筑系统对比分析：从肉鸽深度到商业表达.md",
+    "技能多维定位网络.md",
+    "3V3组队规划表：范式与克制关系.md",
+    "3V3/队伍克制关系图.canvas"
   ]
 }

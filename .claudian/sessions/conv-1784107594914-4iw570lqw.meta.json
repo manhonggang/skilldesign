@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784107594914-4iw570lqw",
+  "providerId": "claude",
+  "title": "Describe block connection obstacle rule",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784107594914,
+  "updatedAt": 1784108004932,
+  "lastResponseAt": 1784107648569,
+  "sessionId": "edda8184-f635-421a-ade8-b71a9ddc4fbe",
+  "providerState": {
+    "providerSessionId": "edda8184-f635-421a-ade8-b71a9ddc4fbe"
+  },
+  "currentNote": "棋盘维度遗物设计方向分析.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1109,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29952,
+    "contextWindow": 1000000,
+    "contextTokens": 31061,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

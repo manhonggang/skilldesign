@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784274413886-d8txko7dl",
+  "providerId": "claude",
+  "title": "Merge upgrade effects into comparison doc",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784274413886,
+  "updatedAt": 1784275344863,
+  "lastResponseAt": 1784275344863,
+  "sessionId": "81bef863-c148-4a41-8319-f08fc520f8f0",
+  "providerState": {
+    "providerSessionId": "81bef863-c148-4a41-8319-f08fc520f8f0"
+  },
+  "currentNote": "技能升级方案：多维定位驱动设计.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2896,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 124544,
+    "contextWindow": 1000000,
+    "contextTokens": 127440,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

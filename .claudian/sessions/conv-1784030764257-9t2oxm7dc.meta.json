@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784030764257-9t2oxm7dc",
+  "providerId": "claude",
+  "title": "Style deprecated items differently",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784030764257,
+  "updatedAt": 1784095492949,
+  "lastResponseAt": 1784030977646,
+  "sessionId": "f45e6347-c1ff-401e-8d15-b162a0e61061",
+  "providerState": {
+    "providerSessionId": "f45e6347-c1ff-401e-8d15-b162a0e61061"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 4776,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34816,
+    "contextWindow": 200000,
+    "contextTokens": 39592,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

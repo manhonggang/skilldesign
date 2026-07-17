@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784189588987-4kfdgznzx",
+  "providerId": "claude",
+  "title": "Merge and clean skill tables from Markdown files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784189588987,
+  "updatedAt": 1784190141462,
+  "lastResponseAt": 1784189807337,
+  "sessionId": "eeff4c83-7d4a-43aa-804b-32ec5b3d63e0",
+  "providerState": {
+    "providerSessionId": "eeff4c83-7d4a-43aa-804b-32ec5b3d63e0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1396,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44032,
+    "contextWindow": 1000000,
+    "contextTokens": 45428,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784188096601-4wzw4j5sd",
+  "providerId": "claude",
+  "title": "Update Skill Charging Mechanics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784188096603,
+  "updatedAt": 1784188746592,
+  "lastResponseAt": 1784188719454,
+  "sessionId": "b693b05c-b806-4ddd-b27a-54e27c010c0d",
+  "providerState": {
+    "providerSessionId": "b693b05c-b806-4ddd-b27a-54e27c010c0d"
+  },
+  "currentNote": "游戏的基本规则.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 4476,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54464,
+    "contextWindow": 200000,
+    "contextTokens": 58940,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

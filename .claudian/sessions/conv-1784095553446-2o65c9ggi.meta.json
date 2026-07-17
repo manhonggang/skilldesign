@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784095553446-2o65c9ggi",
+  "providerId": "claude",
+  "title": "Strip English names and IDs from table columns",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784095553447,
+  "updatedAt": 1784095873874,
+  "lastResponseAt": 1784095868748,
+  "sessionId": "cfe5a15a-7684-45c3-bc6c-f673c3a93425",
+  "providerState": {
+    "providerSessionId": "cfe5a15a-7684-45c3-bc6c-f673c3a93425"
+  },
+  "currentNote": "神明被动.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1602,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34816,
+    "contextWindow": 1000000,
+    "contextTokens": 36418,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

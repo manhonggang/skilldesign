@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784105201061-tpd5qh9ze",
+  "providerId": "claude",
+  "title": "Check Thor item color code",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784105201061,
+  "updatedAt": 1784108008164,
+  "lastResponseAt": 1784106454801,
+  "sessionId": "520d6b6b-dc63-4d6b-8f22-0122e08571a3",
+  "providerState": {
+    "providerSessionId": "520d6b6b-dc63-4d6b-8f22-0122e08571a3"
+  },
+  "currentNote": "全遗物效果.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 246,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37632,
+    "contextWindow": 200000,
+    "contextTokens": 37878,
+    "percentage": 19
+  }
+}
