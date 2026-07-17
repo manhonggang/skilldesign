@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784278092986-nxrnj25gb",
+  "providerId": "claude",
+  "title": "Research Damage Debuff Standards",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784278092986,
+  "updatedAt": 1784280762601,
+  "lastResponseAt": 1784280762601,
+  "sessionId": "5691d026-a4e8-4f5c-b895-cf3181f44863",
+  "providerState": {
+    "providerSessionId": "5691d026-a4e8-4f5c-b895-cf3181f44863"
+  },
+  "currentNote": "技能升级效果重设计：边界、定位与审计.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 183,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 132544,
+    "contextWindow": 200000,
+    "contextTokens": 132727,
+    "percentage": 66,
+    "contextWindowIsAuthoritative": true
+  }
+}
