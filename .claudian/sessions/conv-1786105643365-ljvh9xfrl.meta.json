@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786105643365-ljvh9xfrl",
+  "providerId": "claude",
+  "title": "Convert days column to numbers and sort by day",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786105643365,
+  "updatedAt": 1786351726280,
+  "lastResponseAt": 1786105676160,
+  "sessionId": "63a0b247-22cb-4f7b-b8c9-2a3a3afe6698",
+  "providerState": {
+    "providerSessionId": "63a0b247-22cb-4f7b-b8c9-2a3a3afe6698"
+  },
+  "currentNote": "未命名.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 967,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25088,
+    "contextWindow": 1000000,
+    "contextTokens": 26055,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

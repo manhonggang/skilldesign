@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786351969614-loibnhfa3",
+  "providerId": "claude",
+  "title": "Design guild war mode referencing HaiBi games",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786351969615,
+  "updatedAt": 1786415606339,
+  "lastResponseAt": 1786354829425,
+  "sessionId": "e9d0f84b-8e69-45dc-8d12-16b713e9f2f9",
+  "providerState": {
+    "providerSessionId": "e9d0f84b-8e69-45dc-8d12-16b713e9f2f9"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 23003,
+    "cacheCreationInputTokens": 1182,
+    "cacheReadInputTokens": 137516,
+    "contextWindow": 200000,
+    "contextTokens": 161701,
+    "percentage": 81
+  }
+}

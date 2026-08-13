@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784605289520-lb9jkg8cd",
+  "providerId": "claude",
+  "title": "更新游戏描述为富文本RPG格式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784605289520,
+  "updatedAt": 1785294445678,
+  "lastResponseAt": 1784606196686,
+  "sessionId": "bfd99500-87c6-44c6-ae94-701c4cc42376",
+  "providerState": {
+    "providerSessionId": "bfd99500-87c6-44c6-ae94-701c4cc42376"
+  },
+  "currentNote": "技能描述.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 923,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 77056,
+    "contextWindow": 1000000,
+    "contextTokens": 77979,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

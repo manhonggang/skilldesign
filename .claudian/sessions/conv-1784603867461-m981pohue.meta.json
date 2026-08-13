@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784603867461-m981pohue",
+  "providerId": "claude",
+  "title": "Convert table descriptions to RPG style",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784603867461,
+  "updatedAt": 1784605216126,
+  "lastResponseAt": 1784603927621,
+  "sessionId": "c7921fc0-55e1-45a0-8c3c-c2a4db0f5c0f",
+  "providerState": {
+    "providerSessionId": "c7921fc0-55e1-45a0-8c3c-c2a4db0f5c0f"
+  },
+  "currentNote": "技能描述.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5061,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21632,
+    "contextWindow": 1000000,
+    "contextTokens": 26693,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

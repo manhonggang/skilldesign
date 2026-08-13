@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786104169874-4n5e5w6pc",
+  "providerId": "claude",
+  "title": "Sort IDs by day and generate sequence table",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786104169874,
+  "updatedAt": 1786105610514,
+  "lastResponseAt": 1786104222670,
+  "sessionId": "84ebebf9-f950-4c57-953d-90300385d85a",
+  "providerState": {
+    "providerSessionId": "84ebebf9-f950-4c57-953d-90300385d85a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 131,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23424,
+    "contextWindow": 1000000,
+    "contextTokens": 23555,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

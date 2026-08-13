@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784604426004-o2reeihjl",
+  "providerId": "claude",
+  "title": "Replace game text with rich text",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784604426004,
+  "updatedAt": 1784605191629,
+  "lastResponseAt": 1784605017271,
+  "sessionId": "4ca703cd-447a-47e2-9a86-33195b1c614d",
+  "providerState": {
+    "providerSessionId": "4ca703cd-447a-47e2-9a86-33195b1c614d"
+  },
+  "currentNote": "技能描述.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 97,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 49792,
+    "contextWindow": 1000000,
+    "contextTokens": 49889,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

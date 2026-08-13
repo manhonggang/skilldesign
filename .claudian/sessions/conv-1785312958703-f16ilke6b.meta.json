@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785312958703-f16ilke6b",
+  "providerId": "claude",
+  "title": "我希望设计一个定义自动训练天数的方案，自动训练的天数取玩家的最大天数作为极限，比如玩家的最远训练到2...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785312958704,
+  "updatedAt": 1785392333698,
+  "lastResponseAt": 1785313724365,
+  "sessionId": "17e03621-c275-497a-a7d7-2e391ba08ab0",
+  "providerState": {
+    "providerSessionId": "17e03621-c275-497a-a7d7-2e391ba08ab0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 42363,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37504,
+    "contextWindow": 200000,
+    "contextTokens": 79867,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

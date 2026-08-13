@@ -4,95 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e266eb1b2feaa8a6",
+        "id": "69d54419b48892b2",
         "type": "tabs",
         "children": [
           {
-            "id": "1e643c6682530231",
+            "id": "860d99466bf65538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技能升级效果重设计：边界、定位与审计.md",
+                "file": "神明被动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技能升级效果重设计：边界、定位与审计"
+              "title": "神明被动"
             }
           },
           {
-            "id": "6c592708bc31d134",
+            "id": "01685b6019727d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技能升级效果重设计：边界、定位与审计.md",
+                "file": "3V3组队规划表：范式与克制关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技能升级效果重设计：边界、定位与审计"
+              "title": "3V3组队规划表：范式与克制关系"
             }
           },
           {
-            "id": "930194a67220d048",
+            "id": "c586310d09511178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技能多维定位网络：维度定义、技能分配与审计.md",
+                "file": "设计地图：核心规则与关联全景.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技能多维定位网络：维度定义、技能分配与审计"
+              "title": "设计地图：核心规则与关联全景"
             }
           },
           {
-            "id": "a1ccff4f1cbab259",
+            "id": "fb36af494296281e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "全技能效果_升级效果对比.md",
+                "file": "公主连结_公会战规则与技巧详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全技能效果_升级效果对比"
+              "title": "公主连结_公会战规则与技巧详解"
             }
           },
           {
-            "id": "94d166ea7e30cd38",
+            "id": "25d70f9eaf8845c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技能升级效果重设计：边界、定位与审计.md",
+                "file": "公会战设计方案：万神殿之争.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技能升级效果重设计：边界、定位与审计"
-            }
-          },
-          {
-            "id": "acffdcb754c553ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "全技能效果_升级效果对比.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "全技能效果_升级效果对比"
+              "title": "公会战设计方案：万神殿之争"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -149,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 397.5
   },
   "right": {
     "id": "0c93c8db6e74bbb2",
@@ -251,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 802.5
+    "width": 877.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,44 +253,46 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "930194a67220d048",
+  "active": "25d70f9eaf8845c7",
   "lastOpenFiles": [
-    "剑与远征_设计准则_反向推演.md",
-    "棋盘维度遗物设计方向分析.md",
-    "剑与远征全技能.md",
-    "全技能效果_升级效果对比.md",
-    "全技能效果.md",
-    "技能团队定位表.md",
-    "技能多维定位网络：维度定义、技能分配与审计.md",
-    "技能升级方案：多维定位驱动设计.md",
-    "技能升级效果重设计：边界、定位与审计.md",
-    "技能升级效果重设计.md",
-    "技能多维定位网络：维度定义、技能分配与审计.md.tmp.21816.846d4a78ae95",
-    "技能升级效果重设计：边界、定位与审计.md.tmp.21816.12ce4dc70fbd",
+    "富文本表.md",
+    "公会战设计方案：万神殿之争.md",
+    "公主连结_公会战规则与技巧详解.md",
+    "公主连结_补偿刀与合刀数学推导.md",
+    "神明奥义伤害分类规划.md",
+    "神明奥义系统设计白皮书.md",
+    "游戏的核心设计原则.md",
     "游戏的基本规则.md",
-    "技能升级效果重设计：边界、定位与审计.md.tmp.21816.ada85bba21f7",
-    "技能升级效果重设计：边界、定位与审计.md.tmp.21816.8bb40c0d5ee1",
-    "技能升级效果重设计：边界、定位与审计.md.tmp.21816.88881b9afbad",
-    "技能升级效果重设计：边界、定位与审计.md.tmp.21816.920d7dd4daca",
-    "技能升级效果重设计：边界、定位与审计.md.tmp.21816.6639e851c178",
-    "技能多维定位网络：维度定义、技能分配与审计.md.tmp.21816.96ce76c54e2d",
-    "技能多维定位网络：维度定义、技能分配与审计.md.tmp.21816.9baf96c9a0fa",
-    "全技能效果.md.tmp.21816.4458756ee992",
-    "第七史诗_主流队伍与机制分析.md",
-    "三系统正交定位分析：奥义、技能与遗物.md",
-    "三系统正交定位分析.md",
-    "技能多维定位网络.md",
-    "第七史诗_设计准则_反向推演.md",
-    "参考游戏设计特色分析.md",
-    "从组队驱动力反推奥义设计思路.md",
-    "第七史诗_设计准则_轴关系图谱.md",
-    "缺失范式预设计：奥义与副技能储备.md",
+    "遗物富文本.md",
+    "神明组队定位语.md",
+    "新剧本玩法.md",
+    "3V3组队规划表：范式与克制关系.md",
     "设计地图：核心规则与关联全景.md",
     "设计约束手册.md",
+    "神明奥义（终极版）.md",
+    "家园闲逛行为系统需求.md",
+    "家园闲逛行为系统需求.md.tmp.21064.81fd955db5fe",
+    "神明被动.md",
+    "未命名.md",
+    "三系统正交定位分析：奥义、技能与遗物.md",
+    "剑与远征_设计准则_反向推演.md",
+    "技能团队定位表.md",
+    "attachments/auto_train_dist.png",
+    "3V3/队伍克制关系图.canvas",
+    "第七史诗_设计准则_反向推演.md",
+    "第七史诗_主流队伍与机制分析.md",
+    "技能描述.md",
     "全遗物效果.md",
-    "神明羁绊系统设计.md",
-    "神明副技能系统设计.md",
-    "神明被动与遗物效果重合度分析.md",
-    "3V3/队伍克制关系图.canvas"
+    "全遗物效果.md.tmp.19248.02f48feaf727",
+    "全遗物效果.md.tmp.19248.3954a00cd524",
+    "三款游戏构筑系统对比分析：从肉鸽深度到商业表达.md",
+    "attachments/auto_train_dist_M50_N20.png",
+    "attachments/auto_train_dist_M50_N20.py",
+    "attachments/inspect_dist.py",
+    "attachments/auto_train_dist.py",
+    "attachments",
+    "神明奥义伤害分类规划.md.tmp.23652.1be26d2902b9",
+    "技能描述.md.tmp.9500.aebdb4a66c03",
+    "技能描述.md.tmp.9500.159f391a1d2d"
   ]
 }

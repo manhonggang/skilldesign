@@ -1,0 +1,22 @@
+{
+  "id": "conv-1784600783993-7lutftzxi",
+  "providerId": "claude",
+  "title": "Remove English names and numeric codes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784600783994,
+  "updatedAt": 1784603382226,
+  "lastResponseAt": 1784601278588,
+  "sessionId": "401b8b9b-8483-4abd-a0f7-4121c8b824ce",
+  "providerState": {
+    "providerSessionId": "401b8b9b-8483-4abd-a0f7-4121c8b824ce"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1896,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33792,
+    "contextWindow": 200000,
+    "contextTokens": 35688,
+    "percentage": 18
+  }
+}

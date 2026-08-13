@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786415637254-4rwyzmn2d",
+  "providerId": "claude",
+  "title": "帮我写个需求，角色在家园闲逛时，有几率做出不同的动作，类似最强祖师哪种",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786415637255,
+  "updatedAt": 1786623996673,
+  "lastResponseAt": 1786623996673,
+  "sessionId": "a6e09132-3b29-4b1c-81ea-7a422fc01519",
+  "providerState": {
+    "providerSessionId": "a6e09132-3b29-4b1c-81ea-7a422fc01519"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2548,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 131584,
+    "contextWindow": 1000000,
+    "contextTokens": 134132,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

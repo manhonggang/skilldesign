@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785294840333-nsouyxgdd",
+  "providerId": "claude",
+  "title": "Analyze deity damage mechanics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785294840334,
+  "updatedAt": 1785312479759,
+  "lastResponseAt": 1785295634703,
+  "sessionId": "be499d18-888b-4c20-a589-079bad0d55c7",
+  "providerState": {
+    "providerSessionId": "be499d18-888b-4c20-a589-079bad0d55c7"
+  },
+  "currentNote": "神明奥义（终极版）.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 48909,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 62336,
+    "contextWindow": 200000,
+    "contextTokens": 111245,
+    "percentage": 56,
+    "contextWindowIsAuthoritative": true
+  }
+}
