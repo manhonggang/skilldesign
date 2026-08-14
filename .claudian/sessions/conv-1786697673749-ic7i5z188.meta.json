@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786697673749-ic7i5z188",
+  "providerId": "claude",
+  "title": "Compile AFK Arena 囚时之界 gameplay and strategy doc",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786697673750,
+  "updatedAt": 1786698253000,
+  "lastResponseAt": 1786698253000,
+  "sessionId": "e5b230b5-00e4-4a18-98a7-5c32ffe3f9a3",
+  "providerState": {
+    "providerSessionId": "e5b230b5-00e4-4a18-98a7-5c32ffe3f9a3"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 83,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 62208,
+    "contextWindow": 1000000,
+    "contextTokens": 62291,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

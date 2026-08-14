@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786700771548-bywuijnny",
+  "providerId": "claude",
+  "title": "Design guild war with character donation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786700771548,
+  "updatedAt": 1786707904444,
+  "lastResponseAt": 1786707904444,
+  "sessionId": "b1f79669-1890-4a7b-8c96-c891e03c928f",
+  "providerState": {
+    "providerSessionId": "b1f79669-1890-4a7b-8c96-c891e03c928f"
+  },
+  "currentNote": "剑与远征_团队远征囚时之界玩法详解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 517,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 161152,
+    "contextWindow": 1000000,
+    "contextTokens": 161669,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}
