@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786770919863-yzttxgf4w",
+  "providerId": "claude",
+  "title": "整理图片提取规则中的重合与排版问题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786770919864,
+  "updatedAt": 1786776728264,
+  "lastResponseAt": 1786771786443,
+  "sessionId": "149315c5-91d1-472f-bd57-54ffdb5e3804",
+  "providerState": {
+    "providerSessionId": "149315c5-91d1-472f-bd57-54ffdb5e3804"
+  },
+  "currentNote": "胡闹地牢公会争霸规则.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 56,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41856,
+    "contextWindow": 1000000,
+    "contextTokens": 41912,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

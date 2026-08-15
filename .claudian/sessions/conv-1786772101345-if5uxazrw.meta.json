@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786772101345-if5uxazrw",
+  "providerId": "claude",
+  "title": "设计公会远征队玩法",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786772101345,
+  "updatedAt": 1786777909325,
+  "lastResponseAt": 1786777909325,
+  "sessionId": "e38559fb-9630-4f84-b073-0e66693e89ae",
+  "providerState": {
+    "providerSessionId": "e38559fb-9630-4f84-b073-0e66693e89ae"
+  },
+  "currentNote": "公会战重构方案：捐人制与赛季玩法评估.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 668,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 181376,
+    "contextWindow": 1000000,
+    "contextTokens": 182044,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}
