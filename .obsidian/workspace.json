@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69d54419b48892b2",
+        "id": "aab0bfd6ad4d5be1",
         "type": "tabs",
         "children": [
           {
-            "id": "3aaaf0037af0cb4b",
+            "id": "a35a54c4009d604c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公会远征队玩法设计.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "公会远征队玩法设计"
-            }
-          },
-          {
-            "id": "668b45632cddaae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "胡闹地牢公会贸易.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "胡闹地牢公会贸易"
-            }
-          },
-          {
-            "id": "e3d5ce77e9c955e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "胡闹地牢公会争霸规则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "胡闹地牢公会争霸规则"
+              "title": "新标签页"
             }
           }
         ]
@@ -224,17 +192,32 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "3b9fa42701f3f952",
+  "active": "a35a54c4009d604c",
   "lastOpenFiles": [
-    "公会远征队玩法设计.md.tmp.15100.df0daaec562f",
-    "公会远征队玩法设计.md.tmp.15100.47c649cab417",
-    "公会远征队玩法设计.md.tmp.15100.e01d37db451a",
-    "胡闹地牢公会贸易.md",
     "公会远征队玩法设计.md",
-    "弹壳特攻队_月矿远征玩法详解.md",
-    "胡闹地牢公会争霸规则.md",
+    "公会远征队玩法设计.md.tmp.17436.1786804758884",
+    "公会远征队玩法设计.md.tmp.17436.1786804751143",
+    "公会远征队玩法设计.md.tmp.17436.1786804719035",
+    "公会远征队_袭击结算界面.png",
+    "公会远征队_袭击目标选择界面.png",
+    "公会远征队玩法设计.md.tmp.17436.1786803810078",
+    "公会远征队玩法设计.md.tmp.17436.1786803783823",
+    "公会远征队玩法设计.md.tmp.17436.1786803752974",
+    "公会远征队玩法设计.md.tmp.17436.1786803728546",
+    "公会远征队玩法设计.md.tmp.17436.1786803686313",
+    "公会远征队玩法设计.md.tmp.17436.1786803272430",
+    "公会远征队玩法设计.md.tmp.17436.1786803271528",
+    "公会远征地图.png",
+    "attachments/auto_train_dist_M50_N20.png",
+    "attachments/auto_train_dist.png",
+    "CLAUDE.md",
+    "富文本表.md",
+    "遗物富文本.md",
     "公会战重构方案：捐人制与赛季玩法评估.md",
     "公会战设计方案：万神殿之争.md",
+    "胡闹地牢公会争霸规则.md",
+    "胡闹地牢公会贸易.md",
+    "弹壳特攻队_月矿远征玩法详解.md",
     "从组队驱动力反推奥义设计思路.md",
     "剑与远征_团队远征囚时之界玩法详解.md",
     "公主连结_公会战规则与技巧详解.md",
@@ -242,28 +225,15 @@
     "技能描述.md",
     "技能多维定位网络：维度定义、技能分配与审计.md",
     "公主连结_补偿刀与合刀数学推导.md",
-    "公会战重构方案：捐人制与赛季玩法评估.md.tmp.23208.f92b196f245c",
-    "弹壳特攻队_月矿远征玩法详解.md.tmp.23208.6ddbaba4b322",
-    "剑与远征_团队远征囚时之界玩法详解.md.tmp.10604.814275b43adf",
     "神明被动.md",
     "3V3组队规划表：范式与克制关系.md",
     "设计地图：核心规则与关联全景.md",
-    "富文本表.md",
     "神明奥义伤害分类规划.md",
     "神明奥义系统设计白皮书.md",
     "游戏的核心设计原则.md",
     "游戏的基本规则.md",
-    "遗物富文本.md",
     "神明组队定位语.md",
     "新剧本玩法.md",
-    "设计约束手册.md",
-    "家园闲逛行为系统需求.md.tmp.21064.81fd955db5fe",
-    "attachments/auto_train_dist.png",
-    "3V3/队伍克制关系图.canvas",
-    "全遗物效果.md.tmp.19248.02f48feaf727",
-    "全遗物效果.md.tmp.19248.3954a00cd524",
-    "attachments/auto_train_dist_M50_N20.png",
-    "attachments/auto_train_dist_M50_N20.py",
-    "attachments/inspect_dist.py"
+    "3V3/队伍克制关系图.canvas"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786794713048-m6pv8osnz",
+  "providerId": "claude",
+  "title": "Greet user in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786794713048,
+  "updatedAt": 1786804947212,
+  "lastResponseAt": 1786804947212,
+  "sessionId": "9da966c2-511d-4221-9918-4162d650bfe4",
+  "providerState": {
+    "providerSessionId": "9da966c2-511d-4221-9918-4162d650bfe4"
+  },
+  "currentNote": "公会远征队玩法设计.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 59,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 144640,
+    "contextWindow": 200000,
+    "contextTokens": 144699,
+    "percentage": 72,
+    "contextWindowIsAuthoritative": true
+  }
+}
