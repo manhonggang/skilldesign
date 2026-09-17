@@ -1,16 +1,16 @@
 {
   "id": "conv-1786794713048-m6pv8osnz",
   "providerId": "claude",
-  "title": "Greet user in Chinese",
+  "title": "Redesign poison relics and update mechanics docs",
   "titleGenerationStatus": "success",
   "createdAt": 1786794713048,
-  "updatedAt": 1786804947212,
-  "lastResponseAt": 1786804947212,
+  "updatedAt": 1787111480268,
+  "lastResponseAt": 1787111464978,
   "sessionId": "9da966c2-511d-4221-9918-4162d650bfe4",
   "providerState": {
     "providerSessionId": "9da966c2-511d-4221-9918-4162d650bfe4"
   },
-  "currentNote": "公会远征队玩法设计.md",
+  "currentNote": "全遗物效果.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 59,

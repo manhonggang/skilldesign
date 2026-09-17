@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787111908234-rje8kdexq",
+  "providerId": "claude",
+  "title": "Redesign poison relics around new stacking rules",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787111908235,
+  "updatedAt": 1787812969107,
+  "lastResponseAt": 1787126568658,
+  "sessionId": "06daac68-41a0-4034-a350-fca7a22c3c67",
+  "providerState": {
+    "providerSessionId": "06daac68-41a0-4034-a350-fca7a22c3c67"
+  },
+  "currentNote": "全遗物效果.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 51,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 89088,
+    "contextWindow": 1000000,
+    "contextTokens": 89139,
+    "percentage": 9,
+    "contextWindowIsAuthoritative": true
+  }
+}

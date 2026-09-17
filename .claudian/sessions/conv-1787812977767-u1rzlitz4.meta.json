@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787812977767-u1rzlitz4",
+  "providerId": "claude",
+  "title": "测试",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787812977768,
+  "updatedAt": 1787815319435,
+  "lastResponseAt": 1787815319435,
+  "sessionId": "9982e5f5-b7be-463c-9d55-37ca7f30a679",
+  "providerState": {
+    "providerSessionId": "9982e5f5-b7be-463c-9d55-37ca7f30a679"
+  },
+  "currentNote": "全遗物效果.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 44295,
+    "cacheCreationInputTokens": 126839,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 171134,
+    "percentage": 86
+  }
+}
