@@ -4,8 +4,8 @@
   "title": "我觉着目前的规则下，游戏的方块连接策略可能太简单了，玩家只要连出来连接石和升级水晶就可以了，剩下的靠...",
   "titleGenerationStatus": "failed",
   "createdAt": 1789645237328,
-  "updatedAt": 1789648635504,
-  "lastResponseAt": 1789648635504,
+  "updatedAt": 1789697245696,
+  "lastResponseAt": 1789697152658,
   "sessionId": "d1f71f28-b6ef-4604-b3b4-8c99842b84e5",
   "providerState": {
     "providerSessionId": "d1f71f28-b6ef-4604-b3b4-8c99842b84e5"
@@ -13,11 +13,12 @@
   "currentNote": "游戏的基本规则.md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 51753,
-    "cacheCreationInputTokens": 584,
-    "cacheReadInputTokens": 83531,
-    "contextWindow": 200000,
-    "contextTokens": 135868,
-    "percentage": 68
+    "inputTokens": 30692,
+    "cacheCreationInputTokens": 2257,
+    "cacheReadInputTokens": 63025,
+    "contextWindow": 1000000,
+    "contextTokens": 95974,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
   }
 }
