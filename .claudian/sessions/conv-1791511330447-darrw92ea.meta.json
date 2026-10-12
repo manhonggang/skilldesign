@@ -1,0 +1,23 @@
+{
+  "id": "conv-1791511330447-darrw92ea",
+  "providerId": "claude",
+  "title": "Design board game relics altering rules replaci...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791511330447,
+  "updatedAt": 1791530600779,
+  "lastResponseAt": 1791530600779,
+  "sessionId": "214c749a-3405-44a2-b189-ff1341b260f9",
+  "providerState": {
+    "providerSessionId": "214c749a-3405-44a2-b189-ff1341b260f9"
+  },
+  "currentNote": "全遗物效果.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 8985,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 80384,
+    "contextWindow": 200000,
+    "contextTokens": 89369,
+    "percentage": 45
+  }
+}
